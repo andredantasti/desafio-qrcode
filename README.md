@@ -27,6 +27,6 @@ Desafio QR Code Component do Frontend Mentor [QR code component challenge on Fro
       <li>Customização da imagem atrás da tag IMG</li>
       <li>Uso da estilização 'display' em alguns componentes</li>
     </ul>
-</ul>
+</ul><br><br>
   ## Autor
   André Alexandre
