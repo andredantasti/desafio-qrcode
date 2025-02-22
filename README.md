@@ -15,12 +15,12 @@ Desafio QR Code Component do Frontend Mentor [QR code component challenge on Fro
   <a href="https://andredantasti.github.io/qrcodedesafio" target="_blank"> <img src="./images/animacaoqrcode.gif" alt="Gif do Projeto"></a>
 
   ## Meu Processo
-  Como iniciante, baixamos as imagens que o site frontend mentor liberou para facilitar o desafio;
-  Todo o projeto foi desnvolvido em HTML e CSS;
-  Ferramenta utilizada foi Visual Studio Code;
-  Maior dificuldade durante a realizaçção do projeto foi a de centralizar os elementos e deixar os mesmos responsivos para diferentes tamanhos de tela.
-  Foi utilizado DIVs
-  Diversos customizações no CSS
+  Como iniciante, baixamos as imagens que o site frontend mentor liberou para facilitar o desafio;<br>
+  Todo o projeto foi desnvolvido em HTML e CSS;<br>
+  Ferramenta utilizada foi Visual Studio Code;<br>
+  Maior dificuldade durante a realizaçção do projeto foi a de centralizar os elementos e deixar os mesmos responsivos para diferentes tamanhos de tela.<br>
+  Foi utilizado DIVs<br>
+  Diversos customizações no CSS<br>
 
   ## Autor
   André Alexandre
