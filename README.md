@@ -16,14 +16,14 @@ Desafio QR Code Component do Frontend Mentor [QR code component challenge on Fro
 
   ## Processo
   <ul><li>Como iniciante, baixamos as imagens que o site frontend mentor liberou para facilitar o desafio;</li><br>
-  <li>Todo o projeto foi desnvolvido em HTML e CSS;</li><br>
+  <li>Todo o projeto foi desenvolvido em HTML e CSS;</li><br>
   <li>Ferramenta utilizada foi Visual Studio Code;</li><br>
-  <li>Maior dificuldade durante a realizaçção do projeto foi a de centralizar os elementos e deixar os mesmos responsivos para diferentes tamanhos de tela.</li><br>
-  <li>Foi utilizado DIVs para organizar o conteúdo da página, paragrafos e tag picture para trabalhar com a imagem.</li><br>
+  <li>Maior dificuldade durante a realização do projeto foi a de centralizar os elementos.</li><br>
+  <li>Foi utilizado DIVs para organizar o conteúdo da página, paragrafos e tag picture para trabalhar com a imagem. Posteriormente foi feita a melhoria para HTML Semântico, tirandos algumas divs e substituindo por 'nav', 'main' e 'footer'.</li><br>
   <li>Diversos customizações no CSS</li><br>
     <ul><li>Background de diferentes cores</li>
         <li>Estilização das Divs através das classes</li>
-      <li>Importação da fonte utilizadas no Desafio "outfit"</li>
+      <li>Importação da fonte utilizada no Desafio "outfit"</li>
       <li>Customização da imagem atrás da tag IMG</li>
       <li>Uso da estilização 'display' em alguns componentes</li>
     </ul>
