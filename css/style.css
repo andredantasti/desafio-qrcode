@@ -46,9 +46,10 @@ img {
   font-family: outfit;
 }
 
-.primeiro {
+.primeiro, h1 {
   font-size: 20px;
   font-weight: 700;
+  font-family: outfit;
 }
 
 .segundo {
